@@ -1,4 +1,4 @@
-<h2>Just some random facts about **Dr. Norman Borlaug</h2>
+<h2>Just some random facts about Dr. Norman Borlaug</h2>
 
 **You can live preview it [here](https://justaway1.github.io/Tribute-Page/)**
 
