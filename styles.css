@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #fff;
+    font-family: 'Verdana', san-serif;
+    }
+  
+  #main {
+    background-color: rgba(211, 211, 211, 0.476);
+    width: 98%;
+    margin: 25px auto;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #title {
+    color: rgba(45, 43, 43, 0.955);
+    margin: 30px 0 10px 0;
+    font-size: 2.5rem;
+  }
+  
+  #img-div {
+    background-color: #fff;
+    width: 98%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  #img-caption {
+    padding: 15px;
+    font-size: 1.1rem;
+  }
+  
+  #image {
+    display: block;
+    max-width: 100%;
+    object-fit: cover;
+  }
+  
+  #tribute-info {
+    margin: 55px 0;
+    font-size: 1.2rem;
+    color: rgba(0, 0, 0, 0.846);
+  }
+  
+  ul {
+    max-width: 550px;
+  }
+  
+  ul li {
+    margin-bottom: 20px;
+    color: rgba(0, 0, 0, 0.736);
+    font-size: 1.1rem;
+    width: 100%;
+  }
+  
+  q {
+    max-width: 550px;
+    margin-top: 30px;
+    color: rgba(0, 0, 0, 0.736);
+    font-weight: light;
+    font-size: 0.9rem;
+  }
+  
+  .quote {
+    width: 550px;
+    font-size: 0.9rem;
+    margin-top: 15px;
+    color: rgba(0, 0, 0, 0.736);
+  }
+  
+  h3 {
+    padding: 25px;
+    margin-top: 40px;
+    font-size: 1.2rem;
+    color: rgba(0, 0, 0, 0.736);
+  }
